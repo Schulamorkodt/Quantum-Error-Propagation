@@ -14,11 +14,12 @@ It includes:
 ---
 
 ## Installation
+This project is built around a conda environment:
 
-Install dependencies:
-
+Create and activate the environment:
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate quantum-error-prop
 ```
 
 ---
@@ -39,10 +40,4 @@ All code is located in:
 ```python
 `quantum_error_prop/code.py`
 ```
-
-## 🛠 Requirements
-
-See `requirements.txt`.
-
----
 
