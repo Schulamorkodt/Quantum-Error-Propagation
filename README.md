@@ -1,6 +1,6 @@
 # CNOT Error Propagation Simulator
 
-This project demonstrates how **X and Z errors propagate through a CNOT gate**
+This project demonstrates how **Pauli X and Z errors propagate through a CNOT gate**
 in both the **bit basis** and **phase basis**, using Qiskit.
 
 It includes:
