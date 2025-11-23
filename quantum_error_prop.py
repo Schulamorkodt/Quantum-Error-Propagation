@@ -1,5 +1,5 @@
 # ============================================================
-# CNOT ERROR PROPAGATION SIMULATON
+# CNOT ERROR PROPAGATION SIMULATION
 # ============================================================
 
 from qiskit import QuantumCircuit, QuantumRegister, Aer, execute
