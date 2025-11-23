@@ -1,6 +1,5 @@
 # ============================================================
-# CNOT ERROR PROPAGATION SIMULATOR
-# Extracted from cnoterrorprop.ipynb and merged into one script
+# CNOT ERROR PROPAGATION SIMULATON
 # ============================================================
 
 from qiskit import QuantumCircuit, QuantumRegister, Aer, execute
