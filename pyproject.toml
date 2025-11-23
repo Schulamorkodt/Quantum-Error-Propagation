@@ -1,0 +1,20 @@
+[project]
+name = "quantum-error-prop"
+version = "0.1.0"
+description = "A simulator demonstrating Pauli X and Z error propagation through a CNOT gate using Qiskit."
+readme = "README.md"
+requires-python = ">=3.10"
+
+authors = [
+    { name = "Samantha Chulamorkodt", email = "schulamorkodt8@gmail.com" }
+]
+
+dependencies = [
+    "qiskit",
+    "matplotlib",
+    "numpy"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
